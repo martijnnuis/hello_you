@@ -1,4 +1,4 @@
-# **hello_you**
+# hello_you
 
 ### dit is de eerste versie van de beroeps opdracht
 ###### dit is de beroeps opdracht voor de eerste periode
