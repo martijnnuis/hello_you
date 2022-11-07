@@ -9,4 +9,6 @@
 3. flowchart
 4. beroeps opdracht.py
 
+###### code is verbeterd
+
 ![width="200"](https://imgs.search.brave.com/Y7NLOnqNIlK982LZTmwpbdj7MJb9qXShAIwOUJVVe_k/rs:fit:600:700:1/g:ce/aHR0cDovL3NkLmtl/ZXBjYWxtLW8tbWF0/aWMuY28udWsvaS9r/ZWVwLWNhbG0tYW5k/LXlvdS1zaGFsbC1u/b3QtcGFzcy0zMi5w/bmc)
